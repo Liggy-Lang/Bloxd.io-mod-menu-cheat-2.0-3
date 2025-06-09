@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         GLITCHMAN's gift cheat 2.0 upgrade
-// @namespace    https://github.com/GLITCHMAN12/bloxd.io-flies
-// @version      2025-01-33
+// @namespace    http://tampermonkey.net/
+// @version      2025-01-30
 // @description  like steroids for bloxd.io, open source on github.
 // @author       GLITCHMAN
 // @match        https://bloxd.io*
@@ -9,9 +9,9 @@
 // @grant        GM_getValue
 // @grant        GM_setValue
 // @grant        unsafeWindow
-// @run-at       document-start
-// @downloadURL https://update.greasyfork.org/scripts/521026/Melon%20Hub%20%28bloxdio%29.user.js
-// @updateURL https://update.greasyfork.org/scripts/521026/Melon%20Hub%20%28bloxdio%29.meta.js
+// @run-at       document-end
+// @downloadURL  https://update.greasyfork.org/scripts/521026/Melon%20Hub%20%28bloxdio%29.user.js
+// @updateURL    https://update.greasyfork.org/scripts/521026/Melon%20Hub%20%28bloxdio%29.meta.js
 // ==/UserScript==
 
 /******/ (() => { // webpackBootstrap
